@@ -10,4 +10,4 @@ Contents:
 
 Software:
 
-Annotation was conducted using UAM CorpusTool 3.3 based on the Appraisal framework (Martin & White, 2005).
+Annotation was conducted using UAM CorpusTool 3.3.
