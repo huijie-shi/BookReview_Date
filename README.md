@@ -1,5 +1,5 @@
-*Dataset for the study of book reviews*
-This repository contains the corpus and annotation data used in the article: [AEvaluation in applied linguistics book reviews: A comparison of the strategies used by Chinese and British/American reviewers]
+#Dataset for the study of book reviews
+This repository contains the corpus and annotation data used in the article: [Evaluation in applied linguistics book reviews: A comparison of the strategies used by Chinese and British/American reviewers]
 
 Contents:
 
