@@ -6,8 +6,10 @@ Contents:
 
 - Raw corpus texts
 
-- UAM CorpusTool annotation files and Coding results
+- UAM CorpusTool annotation files 
+
+- Coding results.
 
 Software:
 
-Annotation was conducted using UAM CorpusTool 3.3.
+Annotation was conducted using UAM CorpusTool 3.3 (Windows).
