@@ -10,6 +10,8 @@ Contents:
 
 - Coding results.
 
+（The corpus files and UAM CorpusTool annotation project are provided as compressed archives to facilitate download, storage, and distribution while preserving the original file structure.）
+
 Software:
 
 Annotation was conducted using UAM CorpusTool 3.3 (Windows).
